@@ -76,6 +76,6 @@
 
 ### GitHub Stats
 
-![Rahim’'s GitHub Activity Graph](https://github-activity-graph-deploy.herokuapp.com/graph?username=rahimatgit)
+![Rahim's GitHub Activity Graph](https://github-activity-graph-deploy.herokuapp.com/graph?username=rahimatgit)
 <br />
 
