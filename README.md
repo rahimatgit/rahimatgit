@@ -75,7 +75,6 @@
 
 
 ### GitHub Stats
+![Rahim Monjur github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rahimatgit&theme=tokyo-day)
 
-![Rahim's GitHub Activity Graph](https://github-activity-graph-deploy.herokuapp.com/graph?username=rahimatgit)
-<br />
 
