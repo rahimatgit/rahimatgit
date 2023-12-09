@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋,Rahim Monjur</h1>
 
 <!-- header start -->
-<img src="https://freeimage.host/i/JTfU7Bs" alt="banner"></img>
+<img src="[https://freeimage.host/i/JTfU7Bs](https://iili.io/JTfU7Bs.png)" alt="banner"></img>
 <h3 align="center">A passionate learner from Bangladesh</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahimatgit&label=Profile%20views&color=0e75b6&style=flat" alt="rahimatgit" /> </p>
