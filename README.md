@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋,Rahim Monjur</h1>
+![Header](./github-header-image.png)
 <img src="![Header](./github-header-image.png)"></img>
 <!-- header start -->
 <h3 align="center">A passionate learner from Bangladesh</h3>
