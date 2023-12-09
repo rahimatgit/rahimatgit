@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋,Rahim Monjur</h1>
 
-<img src="./pictures/github-header-image.png"></img>
+<img src="./pictures/github-header-image.png" alt="Header"></img>
 <!-- header start -->
 <h3 align="center">A passionate learner from Bangladesh</h3>
 
