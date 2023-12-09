@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋,Rahim Monjur</h1>
 
-<img src="https://freeimage.host/i/JTfU7Bs" alt="Header"></img>
 <!-- header start -->
 <h3 align="center">A passionate learner from Bangladesh</h3>
 
