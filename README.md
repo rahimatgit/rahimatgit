@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋,Rahim Monjur</h1>
 <img src="https://iili.io/JTfia4e.png" ></img>
 <!-- header start -->
-![The San Juan Mountains are beautiful!](https://iili.io/JTfia4e.png)
+<!-- ![The San Juan Mountains are beautiful!](https://iili.io/JTfia4e.png) -->
 <h3 align="center">A passionate learner from Bangladesh</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahimatgit&label=Profile%20views&color=0e75b6&style=flat" alt="rahimatgit" /> </p>
