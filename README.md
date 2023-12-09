@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋,Rahim Monjur</h1>
-![Header](./github-header-image.png)
-<img src="![Header](./github-header-image.png)"></img>
+
+<img src=""></img>
 <!-- header start -->
+![Header](./github-header-image.png)
 <h3 align="center">A passionate learner from Bangladesh</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahimatgit&label=Profile%20views&color=0e75b6&style=flat" alt="rahimatgit" /> </p>
